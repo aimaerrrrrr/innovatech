@@ -1,0 +1,17 @@
+Disko gogor bat konpontzea prozesu delikatua izan daiteke, eta esperimentatzen ari zaren arazo motaren araberakoa da. Hona hemen oinarrizko urrats batzuk:
+
+1.** Arazoa identifikatu**: Disko gogorra konpontzen saiatu aurretik, arazoa zerk eragiten duen zehaztu behar duzu. Akats fisiko bat izan daiteke, irakurketa-buru kaltetu bat bezala, edo arazo logiko bat, sektore akastunak edo datuen ustelkeria bezala.
+
+2.** Diagnostiko bat egin**: Disko gogorra diagnostikatzeko tresnak erabil ditzakezu, softwarea zein hardwarea, diskoaren osasuna zehazteko. Tresna horiek arazoak identifikatzen lagunduko dizute, hala nola sektore akastunak, irakurketa/idazketako akatsak, etab.
+
+3.** Datuen babesa**: Beti da garrantzitsua disko gogor bat konpontzen saiatu aurretik zure datuak babestea, konpontzeko metodo batzuk datuak galtzea eragin baitezakete. Ahal bada, egin zure fitxategi garrantzitsuen segurtasun-kopia bat beste biltegiratze-gailu batean.
+
+4.** Sektore akastunen konponketa**: Arazoa sektore akastunetan gertatzen bada, horiek konpontzen saia zaitezke disko gogorreko konponketa-tresnak erabiliz. Software-utilitate batzuek sektore akastunak marka ditzakete, sistema eragileak erabil ez ditzan.
+
+5.** Sistema eragilea berriz instalatzea**: Disko gogorrak sistema eragileari eragiten dioten arazo logikoak baditu, baliteke sistema eragilea berriz instalatu behar izatea arazo horiek konpontzeko. Ziurtatu zure datuak babesten dituzula berriro instalatu aurretik.
+
+6.** Osagai akastunak ordeztea**: Disko gogorrak akats fisikoren bat badu, hala nola irakurketa-buru kaltetu bat edo zirkuitu-plaka akastun bat, baliteke osagai horiek ordeztu behar izatea. Horrek hardwarea desmuntatzeko eta muntatzeko trebetasunak eska ditzake; beraz, eroso ez bazaude, hobe da disko gogorra profesional batengana eramatea.
+
+7.** Datuak profesionalki berreskuratzea**: Aurreko neurri guztiek huts egiten badute eta etsi-etsian datu garrantzitsuak berreskuratu behar badituzu, datuak berreskuratzeko zerbitzu profesionaletara jo dezakezu. Zerbitzu horiek tresna eta ezagutza espezializatuak dituzte kaltetutako disko gogorren datuak berreskuratzeko.
+
+Gogoratu disko gogorrak gailu delikatuak direla eta edozein manipulazio okerrek arazoa okertu dezakeela. Disko gogorra zure kabuz konpon dezakezula ziur ez bazaude, hobe da profesional baten laguntza bilatzea.
