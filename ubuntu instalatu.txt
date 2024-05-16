@@ -1,0 +1,21 @@
+PC batean Ubuntu instalatzea prozesu nahiko erraza da. Hona hemen urratsez urratseko gida:
+
+1.** Deskargatu Ubunturen irudia**: Zoaz Ubunturen webgune ofizialera (ubuntu.com) eta deskargatu instalatu nahi duzun Ubunturen bertsioaren ISO irudia. Hainbat bertsio aukeratu ditzakezu, hala nola Ubuntu LTS (Long Term Support) edo bertsio berrienak eguneratze ohikoenekin.
+
+2.** Instalazio-gailu bat prestatu**: Ubunturen irudia deskargatu ondoren, instalazio-gailu bat prestatu beharko duzu, hala nola USB memoria bat edo DVD bat. Rufus (Windowserako) edo Etcher (Windowserako, macOSerako eta Linuxerako) bezalako tresnak erabil ditzakezu abiarazteko USB bat sortzeko.
+
+3.** Abiarazi instalazio-gailutik**: Sartu instalazio-gailua zure ordenagailuan eta berrabiarazi ordenagailua. Abiaraztean, abiarazteko menuan edo BIOS/UEFIn sartu beharko duzu abiarazteko gailua hautatzeko. Horretarako, tekla espezifiko bat (adibidez, F12, Esc edo Supr) sakatu behar da sistemaren hasieran, plaka nagusiaren fabrikatzailearen arabera.
+
+4.** Hasi Ubuntuko instalatzailea**: Behin instalazio-gailutik abiarazita, Ubuntuko instalazio-menua ikusiko duzu. Hemen Ubuntu probatu edo instalatzea aukeratu ahal izango duzu. Hautatu "Ubuntu instalatzea" instalazio-prozesua hasteko.
+
+5.** Instalazioa konfiguratu**: Instalazio-prozesuan zehar, zenbait aukera aukeratzeko eskatuko zaizu, hala nola hizkuntza, teklatuaren banaketa eta ordu-eremua. Jarraitu jarraibideak pantailan konfigurazio hori osatzeko.
+
+6.** Zatitu disko gogorra**: Kasu gehienetan, aukeratu ahal izango duzu Ubuntu beste sistema eragile baten ondoan instalatzea (Windows bezala) edo disko gogorra erabat ezabatzea Ubuntu modu esklusiboan instalatzeko. Beste sistema baten ondoan instalatzea aukeratzen baduzu, disko gogorrean Ubunturentzako lekua esleitu beharko duzu.
+
+7.** Sortu erabiltzaile-kontu bat**: Instalazioan zehar, Ubunturako erabiltzaile-kontu bat sortzeko eskatuko zaizu. Sartu zure izena, erabiltzaile-izena eta pasahitza.
+
+8.** Osatu instalazioa**: Aukera guztiak konfiguratu ondoren, instalatzailea fitxategiak kopiatzen eta sistema konfiguratzen hasiko da. Prozesu horrek denbora bat iraun dezake, zure ordenagailuaren abiaduraren arabera.
+
+9.*** Berrabiarazi sistema**: Instalazioa amaitu ondoren, sistemari berriz ekiteko eskatuko zaizu. Kendu instalazio-gailua eta utzi ordenagailuari disko gogorretik berrabiarazten.
+
+10.** Gozatu Ubuntuz**: Orain Ubuntu eduki beharko zenuke zure ordenagailuan! Instalazioan sortu zenuen erabiltzaile-kontuarekin saioa has dezakezu, eta sistema eragilea arakatzen hasi.
